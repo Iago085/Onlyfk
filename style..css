@@ -1,0 +1,14 @@
+img{
+    width: 100vw;
+    height: 80vh;
+}
+button{
+ width: 99vw;
+ right:5vw;
+ height: 2rem;
+ font-size: 25px;
+ margin: 0;
+ color: rgb(69, 208, 208);
+ background-color: #ffffff00;
+ border-radius: 0 #ffffff00;
+}
